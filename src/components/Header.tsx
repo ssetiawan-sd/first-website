@@ -50,7 +50,7 @@ const Header: React.FC = () => {
             href="#home"
             className="text-2xl font-bold text-blue-600 dark:text-blue-400 transition-colors"
           >
-            John Doe
+            Steven Setiawan
           </a>
 
           {/* Desktop Navigation */}
